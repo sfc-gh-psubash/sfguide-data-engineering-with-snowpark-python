@@ -8,9 +8,9 @@ Last Updated: 1/9/2023
 -- SNOWFLAKE ADVANTAGE: Tasks (with Stream triggers)
 -- SNOWFLAKE ADVANTAGE: Task Observability
 
-USE ROLE HOL_ROLE;
+USE ROLE PSUBASH_HOL_ROLE;
 USE WAREHOUSE HOL_WH;
-USE SCHEMA HOL_DB.HARMONIZED;
+USE SCHEMA PSUBASH_HOL_DB.HARMONIZED;
 
 
 -- ----------------------------------------------------------------------------
