@@ -8,7 +8,7 @@
 # SNOWFLAKE ADVANTAGE: Snowpark Python programmability
 # SNOWFLAKE ADVANTAGE: Python UDFs (with third-party packages)
 # SNOWFLAKE ADVANTAGE: SnowCLI (PuPr)
-
+# test
 import sys
 from scipy.constants import convert_temperature
 
